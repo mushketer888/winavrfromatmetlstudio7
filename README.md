@@ -1,4 +1,7 @@
-Here is latest WinAVR GCC for Windows including AVR-LIBC
+# Here is latest WinAVR GCC for Windows including AVR-LIBC
+
+## Installing
+Just copy this files in needed directory. Or delete old winavr gcc installation and put files there. Better to add this firectory to PATH variable.
 
 GCC:
 avr-gcc.exe (AVR_8_bit_GNU_Toolchain_3.5.3_1700) 4.9.2
